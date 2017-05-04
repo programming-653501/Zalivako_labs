@@ -1,0 +1,6 @@
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\bin\Debug\Lab5.2.10_Zalivako.exe.config
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\bin\Debug\Lab5.2.10_Zalivako.exe
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\bin\Debug\Lab5.2.10_Zalivako.pdb
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\obj\Debug\Lab5.2.10_Zalivako.csprojResolveAssemblyReference.cache
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\obj\Debug\Lab5.2.10_Zalivako.exe
+E:\Projects\Notes\Lab5.2.10_Zalivako\Lab5.2.10_Zalivako\obj\Debug\Lab5.2.10_Zalivako.pdb
