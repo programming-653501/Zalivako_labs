@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab5.1.10_Zalivako.cpp
+c:\users\andrew\documents\visual studio 2015\projects\lab5.1.10_zalivako\lab5.1.10_zalivako\lab5.1.10_zalivako.cpp(67): warning C4101: result: неиспользованная локальная переменная
+c:\users\andrew\documents\visual studio 2015\projects\lab5.1.10_zalivako\lab5.1.10_zalivako\lab5.1.10_zalivako.cpp(99): warning C4715: Equal: значение возвращается не при всех путях выполнения
+  Lab5.1.10_Zalivako.vcxproj -> c:\users\andrew\documents\visual studio 2015\Projects\Lab5.1.10_Zalivako\Debug\Lab5.1.10_Zalivako.exe
+  Lab5.1.10_Zalivako.vcxproj -> c:\users\andrew\documents\visual studio 2015\Projects\Lab5.1.10_Zalivako\Debug\Lab5.1.10_Zalivako.pdb (Full PDB)
