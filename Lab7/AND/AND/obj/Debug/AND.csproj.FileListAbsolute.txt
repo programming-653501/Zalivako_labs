@@ -1,0 +1,13 @@
+E:\Учеба\AND\AND\bin\Debug\AND.exe.config
+E:\Учеба\AND\AND\bin\Debug\AND.exe
+E:\Учеба\AND\AND\bin\Debug\AND.pdb
+E:\Учеба\AND\AND\obj\Debug\AND.csprojResolveAssemblyReference.cache
+E:\Учеба\AND\AND\obj\Debug\AND.Form1.resources
+E:\Учеба\AND\AND\obj\Debug\AND.Properties.Resources.resources
+E:\Учеба\AND\AND\obj\Debug\AND.csproj.GenerateResource.Cache
+E:\Учеба\AND\AND\obj\Debug\AND.exe
+E:\Учеба\AND\AND\obj\Debug\AND.pdb
+E:\Учеба\AND\AND\obj\Debug\AND.Attended_form.resources
+C:\Users\andrew\Desktop\Labs Prog\Lab7\AND\AND\bin\Debug\AND.exe.config
+C:\Users\andrew\Desktop\Labs Prog\Lab7\AND\AND\obj\Debug\AND.exe
+C:\Users\andrew\Desktop\Labs Prog\Lab7\AND\AND\obj\Debug\AND.pdb
