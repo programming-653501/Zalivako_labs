@@ -1,0 +1,24 @@
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.exe
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.exe
+c:\users\andrew\documents\visual studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.pdb
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.exe
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.pdb
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.exe
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.pdb
+C:\Users\andrew\Desktop\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.csprojResolveAssemblyReference.cache
+I:\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.exe.config
+I:\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.exe
+I:\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.pdb
+I:\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.exe
+I:\Сетевой чат\chatServer\chatServer\bin\Debug\chatServer.pdb
+I:\Сетевой чат\chatServer\chatServer\obj\Debug\chatServer.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\obj\Debug\chatServer.exe
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\obj\Debug\chatServer.pdb
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\bin\Debug\chatServer.exe
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\bin\Debug\chatServer.pdb
+C:\Users\andrew\Desktop\Network_chat\chatServer\chatServer\obj\Debug\chatServer.csprojResolveAssemblyReference.cache

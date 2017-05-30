@@ -1,0 +1,15 @@
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\clientProgram.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\WindowsFormsApplication2.MainClient.resources
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\andrew\Desktop\Network_chat\WindowsFormsApplication2\clientProgram\obj\Debug\clientProgram.csproj.GenerateResource.Cache
+C:\Users\andrew\Desktop\Network_chat\clientProgram\clientProgram\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\andrew\Desktop\Network_chat\clientProgram\clientProgram\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\andrew\Desktop\Network_chat\clientProgram\clientProgram\obj\Debug\WindowsFormsApplication2.pdb
